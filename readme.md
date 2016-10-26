@@ -10,3 +10,5 @@
 ## Vistas:
   - login.- Inicio de sesión.
   - home.- Invocar a la función que actualice el token
+  
+## Namespace usado: *sesionfacebook*
