@@ -17,7 +17,7 @@
       // The person is logged into Facebook, but not your app.
       document.getElementById('status').innerHTML = 'Please log ' +
       'into this app.';
-    } else { // No esta logueado en face, y no sabe si esta logueado en la aplicacion
+    } else { // No esta logueado en face, y no sabe si esta logueado en la aplicacion prueba
       // The person is not logged into Facebook, so we're not sure if
       // they are logged into this app or not.
       document.getElementById('status').innerHTML = 'Please log ' +
